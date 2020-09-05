@@ -7,4 +7,5 @@
     <string name="t">T</string>
     <string name="f">F</string>
     <string name="submit">SUBMIT</string>
+    <string name="correct_answer">Total correct answers: %d</string>
 </resources>
